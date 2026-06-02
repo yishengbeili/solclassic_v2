@@ -6,7 +6,7 @@
   "container.large_basket": "大型篮子（旧版）",
   "item.solclassic.wicker_basket": "柳条篮",
   "container.wicker_basket": "柳条篮",
-  "tooltip.wicker_basket.description1": "右键单击以食用收益最高的食物",
+  "tooltip.wicker_basket.description1": "右键食用收益最高的食物",
   "tooltip.wicker_basket.description2": "Shift+右键打开",
   "tooltip.wicker_basket.food_info": "§7下一个：%s（营养值：%s）",
   "item.solclassic.food_history_book": "食物记录书",
